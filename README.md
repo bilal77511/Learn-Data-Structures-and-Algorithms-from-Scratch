@@ -1,5 +1,5 @@
 # Learn Data Structures and Algorithms from Scratch
-![](https://media.licdn.com/dms/image/v2/D4D22AQEuu1UIavdr6g/feedshare-shrink_800/B4DZQ6EZGcGkAg-/0/1736141018703?e=1738800000&v=beta&t=dfFUfLpBjIH8GB56orIW3JX_kMHt24-qY8RExzCE2h8)
+![](https://github.com/muhammadibrahim313/Learn-Data-Structures-and-Algorithms-from-Scratch/blob/main/a-visually-striking-promotional-image-fo_YzlkcJjRRG2XSD9umjHqWQ_xpYh42biStKEFk4uELykPw.jpeg)
 
 ## Course Information
 - **Duration**: January 6, 2025 - February 14, 2025
