@@ -5,11 +5,11 @@
 - **Duration**: January 6, 2025 - February 14, 2025
 - **Schedule**: Monday to Friday, 6 PM - 7 PM
 - **Trainers**: 
-  - [Muhammad Bilal](https://www.linkedin.com/in/muhammad-bilal)
-  - [Ahmad Fakhar](https://www.linkedin.com/in/ahmad-fakhar)
+  - [Muhammad Bilal](https://www.linkedin.com/in/bilal77511/)
+  - [Ahmad Fakhar](https://www.linkedin.com/in/ahmadfakhar/)
 - **Moderators**:
-  - [Muhammad Ibrahim Qasmi](https://www.linkedin.com/in/muhammad-ibrahim-qasmi)
-  - [Tayyab Sajjad](https://www.linkedin.com/in/tayyab-sajjad)
+  - [Muhammad Ibrahim Qasmi](https://www.linkedin.com/in/ibrahimqasmi313/)
+  - [Tayyab Sajjad](https://www.linkedin.com/in/devtayyabsajjad/)
 
 ## Course Contents
 
