@@ -15,7 +15,7 @@
 ## Week 1: Introduction to DSA and Array Operations
 ### Day 1 - Introduction to DSA & Array Operations
 - 📝 [Lecture Notes](#)
-- 📹 [Recorded Lecture]([https://fb.watch/wXESv-VXpS/](https://www.facebook.com/iCodeguru/videos/1234912814237356/))
+- 📹 [Recorded Lecture]([https://fb.watch/wXESv-VXpS/](https://www.facebook.com/iCodeguru/videos/1234912814237356/])
 - 💻 [Colab Notebook](#)
 - **Concepts Covered**:
   - Fundamentals of Data Structures and Algorithms
