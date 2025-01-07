@@ -24,9 +24,9 @@
   - Array Implementation in Python
 
 ### Day 2 - Time & Space Complexity
-- 📝 [Lecture Notes](#)
-- 📹 [Recorded Lecture](#)
-- 💻 [Colab Notebook](#)
+- 📝 [Lecture Notes](https://www.canva.com/design/DAGbbGHjOdM/qWwseLApp4W0oMigjITaIQ/view?utm_content=DAGbbGHjOdM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h15ec22e014)
+- 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/1016624473719031)
+- 💻 [Colab Notebook](https://colab.research.google.com/drive/1VozhKnAGQlh-SPlrL09vf_uu5WPgUlrK?usp=sharing)
 - **Concepts Covered**:
   - Big O Notation
   - Time Complexity Analysis
