@@ -46,12 +46,14 @@
   - Search and Sort
   - Basic Problem-Solving
 
-### Day 5 - Presentation Day
-- 📹 [Student Presentations](#)
-- 💡 [Solution Approaches](#)
-- ✍️ [Code Reviews](#)
+### Day 5 - Presentation Day 
+- Present By **hanzla** | Problem no 217
+  
+- ✍️ [Contain duplicate ](https://leetcode.com/problems/contains-duplicate/)
+- Recorded Lect: https://www.facebook.com/share/v/19qdrtE2DF/
 
 ## Week 2: String and Hashmap
+
 ### Day 1 - String Operations
 - 📝 [Lecture Notes](#)
 - 📹 [Recorded Lecture](#)
