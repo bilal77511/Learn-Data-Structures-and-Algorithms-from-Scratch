@@ -33,9 +33,13 @@
   - Space Complexity Analysis
 
 ### Day 3 & 4 - LeetCode Problems
-- 📝 [Problem Set](#)
-- 📹 [Solution Walkthrough](#)
-- 💻 [Solution Code](#)
+- 📝LeetCode problems Solved in Session
+- 📹 [Two Sum](https://leetcode.com/problems/two-sum/description/)
+- 📹 [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/)
+- 📹 [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/)
+- 
+- Recorded Lect For Day 3: https://www.facebook.com/share/v/15nHkzpg7a/
+- Recorded Lect For Day 4: https://www.facebook.com/share/v/15NKkeNTFd/
 - **Practice Problems**:
   - Array Manipulation
   - Search and Sort
