@@ -57,7 +57,7 @@
 ### Day 1 - String Operations
 - 📝 [Lecture Notes](https://www.canva.com/design/DAGcE0Am45k/5gND2znuwhheaGR8yx9Hqg/edit)
 - 📹 [Recorded Lecture](https://www.facebook.com/share/v/18SqDRBhET/)
-- 💻 [Colab Notebook](https://colab.research.google.com/drive/1VozhKnAGQlh-SPlrL09vf_uu5WPgUlrK?ts=678509fa)
+- 💻 [Colab Notebook](https://colab.research.google.com/drive/1mSrQTdSM69Y2-PDwkxQhqFJlc0AN-Zry?usp=sharing)
 - **Concepts Covered**:
   - String Basics
   - String Operations
