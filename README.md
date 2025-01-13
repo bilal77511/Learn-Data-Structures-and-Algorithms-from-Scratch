@@ -55,9 +55,9 @@
 ## Week 2: String and Hashmap
 
 ### Day 1 - String Operations
-- 📝 [Lecture Notes](#)
-- 📹 [Recorded Lecture](#)
-- 💻 [Colab Notebook](#)
+- 📝 [Lecture Notes](https://www.canva.com/design/DAGcE0Am45k/5gND2znuwhheaGR8yx9Hqg/edit)
+- 📹 [Recorded Lecture](https://www.facebook.com/share/v/18SqDRBhET/)
+- 💻 [Colab Notebook](https://colab.research.google.com/drive/1VozhKnAGQlh-SPlrL09vf_uu5WPgUlrK?ts=678509fa)
 - **Concepts Covered**:
   - String Basics
   - String Operations
