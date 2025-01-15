@@ -55,7 +55,7 @@
 ## Week 2: String and Hashmap
 
 ### Day 1 - String Operations
-- 📝 [Lecture Notes]([https://www.canva.com/design/DAGcE0Am45k/5gND2znuwhheaGR8yx9Hqg/edit](https://www.canva.com/design/DAGcE0Am45k/FgV0CwfkXZMMu9Vlj5JhFQ/view?utm_content=DAGcE0Am45k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdf6c5c99c4))
+- 📝 [Lecture Notes](https://www.canva.com/design/DAGcE0Am45k/FgV0CwfkXZMMu9Vlj5JhFQ/view)
 - 📹 [Recorded Lecture](https://www.facebook.com/share/v/18SqDRBhET/)
 - 💻 [Colab Notebook](https://colab.research.google.com/drive/1mSrQTdSM69Y2-PDwkxQhqFJlc0AN-Zry?usp=sharing)
 - **Concepts Covered**:
