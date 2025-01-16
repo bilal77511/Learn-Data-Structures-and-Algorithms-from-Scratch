@@ -39,8 +39,8 @@
 - 📹 [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/)
 - 📹 [Single Number](https://leetcode.com/problems/single-number/description/)
 
-- Recorded Lect For Day 3: https://www.facebook.com/share/v/15nHkzpg7a/
-- Recorded Lect For Day 4: https://www.facebook.com/share/v/15NKkeNTFd/
+- [Recorded Lect For Day 3](https://www.facebook.com/share/v/15nHkzpg7a/)
+- [Recorded Lect For Day 4](https://www.facebook.com/share/v/15NKkeNTFd/)
 - **Practice Problems**:
   - Array Manipulation
   - Search and Sort
@@ -50,7 +50,7 @@
 - Present By **hanzla** | Problem no 217
   
 - ✍️ [Contain duplicate ](https://leetcode.com/problems/contains-duplicate/)
-- Recorded Lect: https://www.facebook.com/share/v/19qdrtE2DF/
+- 📹 [Recorded Lecture](https://www.facebook.com/share/v/19qdrtE2DF/)
 
 ## Week 2: String and Hashmap
 
@@ -64,14 +64,13 @@
   - Implementation Techniques
 
 ### Day 2 - String Array Operations
-- 📝 [Problem Set](#)
-- 📹 [Solution Walkthrough](#)
-- 💻 [Practice Code](#)
+- 📝 [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/), [2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/)
+- 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/1134361021415933)
 
 ### Day 3 - Hashmap Operations
-- 📝 [Lecture Notes](#)
-- 📹 [Recorded Lecture](#)
-- 💻 [Colab Notebook](#)
+- 📝 [Lecture Notes](https://www.canva.com/design/DAGcE0Am45k/FgV0CwfkXZMMu9Vlj5JhFQ/view)
+- 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/914640424122393)
+- 💻 [Colab Notebook](https://colab.research.google.com/drive/1mSrQTdSM69Y2-PDwkxQhqFJlc0AN-Zry?usp=sharing)
 - **Concepts Covered**:
   - Hashmap Fundamentals
   - Implementation Strategies
