@@ -76,10 +76,12 @@
   - Implementation Strategies
   - Common Operations
 
-### Day 4 - Design HashMap
-- 📝 [Problem Set](#)
-- 📹 [Solution Walkthrough](#)
-- 💻 [Practice Code](#)
+### Day 4 - LeetCode problems
+- 📝LeetCode problems Solved in Session
+- 📹 [Two Sum](https://leetcode.com/problems/two-sum/description/)
+- 📹 [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+
+- [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/546186458397691)
 
 ### Day 5 - Presentation Day
 - 📹 [Student Presentations](#)
