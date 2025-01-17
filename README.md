@@ -84,10 +84,11 @@
 - [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/546186458397691)
 
 ### Day 5 - Presentation Day
-- 📹 [Student Presentations](#)
-- 💡 [Solution Approaches](#)
-- ✍️ [Code Reviews](#)
-
+- Present By **Safiullah Saleem** and **Ahmad Fakhar**
+  
+- ✍️ [2351. First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/description/)
+- ✍️ [706. Design HashMap](https://leetcode.com/problems/design-hashmap/description/)
+- 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/2943480785818249)
 ## Week 3: Stack and Queue
 ### Day 1 - Stack Operations
 - 📝 [Lecture Notes](#)
