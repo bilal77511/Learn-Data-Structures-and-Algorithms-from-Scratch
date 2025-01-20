@@ -91,13 +91,14 @@
 - 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/2943480785818249)
 ## Week 3: Stack and Queue
 ### Day 1 - Stack Operations
-- 📝 [Lecture Notes](#)
-- 📹 [Recorded Lecture](#)
-- 💻 [Colab Notebook](#)
+- 📝 [Lecture Notes](https://www.canva.com/design/DAGcumV68Tk/H2UPAM27ykEH-V4JGUM6Og/view?utm_content=DAGcumV68Tk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h48593eec13)
+- 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/1123323895933208/)
+- 💻 [Colab Notebook](https://colab.research.google.com/drive/13D41uoB3-1p-2r1UTaVYYKek2edv4BrA?usp=sharing)
 - **Concepts Covered**:
   - Stack ADT
   - Implementation Methods
   - Basic Operations
+  - [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)
 
 ### Day 2 - Stack Problems
 - 📝 [Problem Set](#)
