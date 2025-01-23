@@ -113,6 +113,7 @@
   - Queue ADT
   - Implementation Methods
   - Basic Operations
+  - [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 
 ### Day 4 - Queue Problems
 - 📝 [Problem Set](#)
