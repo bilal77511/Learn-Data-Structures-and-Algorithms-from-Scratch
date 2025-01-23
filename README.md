@@ -101,14 +101,14 @@
   - [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)
 
 ### Day 2 - Stack Problems
-- 📝 [Problem Set](#)
-- 📹 [Solution Walkthrough](#)
-- 💻 [Practice Code](#)
+- 📝 [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)
+- 📝 [682. Baseball Game](https://leetcode.com/problems/baseball-game/description/)
+- [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/2625678724308532/)
 
 ### Day 3 - Queue Operations
-- 📝 [Lecture Notes](#)
-- 📹 [Recorded Lecture](#)
-- 💻 [Colab Notebook](#)
+- 📝 [Lecture Notes](https://www.canva.com/design/DAGcumV68Tk/H2UPAM27ykEH-V4JGUM6Og/view?utm_content=DAGcumV68Tk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h48593eec13)
+- 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/4085902164977081/)
+- 💻 [Colab Notebook](https://colab.research.google.com/drive/13D41uoB3-1p-2r1UTaVYYKek2edv4BrA?usp=sharing)
 - **Concepts Covered**:
   - Queue ADT
   - Implementation Methods
