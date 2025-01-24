@@ -116,7 +116,7 @@
   - [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 
 ### Day 4 - Queue Problems| LeetCode
-- 📝 [LeetCode Problem no 1700(https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
+- 📝 [LeetCode Problem no 1700](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
 - [Recorded Lecture](https://www.facebook.com/share/v/1BP5kaPFFf/)
 
 
