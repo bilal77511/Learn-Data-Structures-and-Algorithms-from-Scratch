@@ -115,15 +115,16 @@
   - Basic Operations
   - [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 
-### Day 4 - Queue Problems
-- 📝 [Problem Set](#)
-- 📹 [Solution Walkthrough](#)
-- 💻 [Practice Code](#)
+### Day 4 - Queue Problems| LeetCode
+- 📝 [LeetCode Problem no 1700(https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
+- [Recorded Lecture](https://www.facebook.com/share/v/1BP5kaPFFf/)
+
 
 ### Day 5 - Presentation Day
-- 📹 [Student Presentations](#)
-- 💡 [Solution Approaches](#)
-- ✍️ [Code Reviews](#)
+
+- 📹 [Saifullaha Saleem](#)
+- [Recorded Lecture](https://www.facebook.com/share/v/12JPRaokKgi/)
+
 
 ## Week 4: Two Pointers Technique
 ### Day 1 - Introduction to Two Pointers
