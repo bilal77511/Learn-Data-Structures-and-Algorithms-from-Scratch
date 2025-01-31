@@ -122,28 +122,35 @@
 
 ### Day 5 - Presentation Day
 
-- 📹 [Saifullaha Saleem](#)
+- 📹 Saifullaha Saleem
+- [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 - [Recorded Lecture](https://www.facebook.com/share/v/12JPRaokKgi/)
 
 
 ## Week 4: Two Pointers Technique
-### Day 1 - Introduction to Two Pointers
-- 📝 [Lecture Notes](#)
-- 📹 [Recorded Lecture](#)
-- 💻 [Colab Notebook](#)
+### Day 1 - Introduction to Two Pointers presented by Quaid Khalid, Asim Khan, Ahmad Fakhar
+- 📝 [Lecture Notes](https://www.canva.com/design/DAGcumV68Tk/H2UPAM27ykEH-V4JGUM6Og/view?utm_content=DAGcumV68Tk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h48593eec13)
+- 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/615101924794397)
 - **Concepts Covered**:
   - Two Pointers Pattern
   - Implementation Strategies
   - Two Sum Problem
+- **Leetcode Problems**:
+  - [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
+  - [27. Remove Element](https://leetcode.com/problems/remove-element)
+    
 
 ### Days 2-4 - LeetCode Problems
-- 📝 [Problem Set](#)
-- 📹 [Solution Walkthrough](#)
-- 💻 [Practice Code](#)
-- **Practice Problems**:
-  - Two Pointers Applications
-  - Array Manipulation
-  - Pattern Recognition
+- [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
+- [27. Remove Element](https://leetcode.com/problems/remove-element)
+- [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
+- [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/?envType=problem-list-v2&envId=two-pointers)
+- [344. Reverse String](https://leetcode.com/problems/reverse-string/?envType=problem-list-v2&envId=two-pointers)
+
+- 📹 [DAY 2 recording](https://www.facebook.com/iCodeguru/videos/963533478581354)
+- 📹 [DAY 3 recording](https://www.facebook.com/iCodeguru/videos/598264322838665)
+- 📹 [DAY 4 recording](https://www.facebook.com/iCodeguru/videos/1258084138618586)
 
 ### Day 5 - Presentation Day
 - 📹 [Student Presentations](#)
