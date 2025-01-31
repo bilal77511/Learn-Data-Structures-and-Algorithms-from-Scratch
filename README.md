@@ -147,18 +147,20 @@
 - [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/?envType=problem-list-v2&envId=two-pointers)
 - [344. Reverse String](https://leetcode.com/problems/reverse-string/?envType=problem-list-v2&envId=two-pointers)
-- [2810. Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/)
-- [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/?envType=problem-list-v2&envId=two-pointers)
+
 
 - 📹 [DAY 2 recording](https://www.facebook.com/iCodeguru/videos/963533478581354)
 - 📹 [DAY 3 recording](https://www.facebook.com/iCodeguru/videos/598264322838665)
 - 📹 [DAY 4 recording](https://www.facebook.com/iCodeguru/videos/1258084138618586)
-- 📹 [DAY 5 recording](https://www.facebook.com/share/v/14xpVCKwFY/)
+
 
 ### Day 5 - Presentation Day
 - 📹 [Student Presentations](#)
+-  [2810. Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/)
+-  [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/?envType=problem-list-v2&envId=two-pointers)
 - 💡 [Solution Approaches](#)
 - ✍️ [Code Reviews](#)
+- 📹 [DAY 5 recording](https://www.facebook.com/share/v/14xpVCKwFY/)
 
 ## Week 5: Linked List
 ### Day 1 - Singly Linked List
