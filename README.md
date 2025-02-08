@@ -163,41 +163,32 @@
 - 📹 [DAY 5 recording](https://www.facebook.com/share/v/14xpVCKwFY/)
 
 ## Week 5: Linked List
-### Day 1 - Singly Linked List
+### Day 1 - Linked List Presented by Ahmad Fakhar
 - 📝 [Lecture Notes](#)
-- 📹 [Recorded Lecture](#)
-- 💻 [Colab Notebook](#)
+- 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/2451674685179095)
 - **Concepts Covered**:
   - Linked List Basics
   - Singly Linked List Operations
   - Implementation Methods
+- **Leetcode Problems**
+  - [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/?envType=problem-list-v2&envId=linked-list)
+  - 
 
-### Day 2 - Linked List Problems
-- 📝 [Problem Set](#)
-- 📹 [Solution Walkthrough](#)
-- 💻 [Practice Code](#)
+### Day 2 - Linked List Problems presented by Ahmad Fakhar
+- 📝 [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/?envType=problem-list-v2&envId=linked-list), [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/?envType=problem-list-v2&envId=linked-list)
+- 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/1881651479325041)
 
-### Day 3 - Doubly Linked List
-- 📝 [Lecture Notes](#)
-- 📹 [Recorded Lecture](#)
-- 💻 [Colab Notebook](#)
-- **Concepts Covered**:
-  - Doubly Linked List Operations
-  - Implementation Techniques
-  - Advanced Operations
+### Day 3 - Linked List Problems presented by Ahmad Fakhar
+- [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/?envType=problem-list-v2&envId=linked-list)
+- 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/3837718046481643)
 
-### Day 4 - Advanced Problems
-- 📝 [Problem Set](#)
-- 📹 [Solution Walkthrough](#)
-- 💻 [Practice Code](#)
-- **Focus Problems**:
-  - Middle of Linked List
-  - Linked List Cycle
 
-### Day 5 - Presentation Day
-- 📹 [Student Presentations](#)
-- 💡 [Solution Approaches](#)
-- ✍️ [Code Reviews](#)
+### Day 4 - Linked List Problems presented by Ahmad Fakhar
+- [21. Merge Two Sorted Lists](https://www.facebook.com/iCodeguru/videos/2451674685179095)
+- 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/970771835007639)
+### Day 5 - Presentation Day presented by Safiullah Saleem,Ahmad Fakhar
+- [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/602526479337725)
 
 ## Week 6: Binary Search
 ### Day 1 - Binary Search Introduction
