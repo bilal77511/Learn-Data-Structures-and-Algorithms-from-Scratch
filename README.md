@@ -164,7 +164,7 @@
 
 ## Week 5: Linked List
 ### Day 1 - Linked List Presented by Ahmad Fakhar
-- 📝 [Lecture Notes](#)
+- 📝 [Lecture Notes](https://drive.google.com/file/d/15QL01E8PYHvBEdcYo3aMRiNfJJp2ksrd/view?usp=sharing)
 - 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/2451674685179095)
 - **Concepts Covered**:
   - Linked List Basics
