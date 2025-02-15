@@ -175,15 +175,18 @@
   - 
 
 ### Day 2 - Linked List Problems presented by Ahmad Fakhar
+- **Leetcode Problems**
 - 📝 [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/?envType=problem-list-v2&envId=linked-list), [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/?envType=problem-list-v2&envId=linked-list)
 - 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/1881651479325041)
 
 ### Day 3 - Linked List Problems presented by Ahmad Fakhar
+- **Leetcode Problems**
 - [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/?envType=problem-list-v2&envId=linked-list)
 - 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/3837718046481643)
 
 
 ### Day 4 - Linked List Problems presented by Ahmad Fakhar
+- **Leetcode Problems**
 - [21. Merge Two Sorted Lists](https://www.facebook.com/iCodeguru/videos/2451674685179095)
 - 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/970771835007639)
 ### Day 5 - Presentation Day presented by Safiullah Saleem,Ahmad Fakhar
@@ -191,28 +194,44 @@
 - 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/602526479337725)
 
 ## Week 6: Binary Search
-### Day 1 - Binary Search Introduction
-- 📝 [Lecture Notes](#)
-- 📹 [Recorded Lecture](#)
-- 💻 [Colab Notebook](#)
+
+### Day 1 - Binay search Presented by M Bilal 
+- 📝 [Lecture Notes](https://drive.google.com/file/d/15QL01E8PYHvBEdcYo3aMRiNfJJp2ksrd/view?usp=sharing)
+- 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/600693246255793/)
 - **Concepts Covered**:
-  - Binary Search Algorithm
-  - Implementation Strategies
-  - Time Complexity Analysis
+  - Binay search
+  - Implementation Methods
+  - One way & Two way 
 
-### Days 2-4 - LeetCode Problems
-- 📝 [Problem Set](#)
-- 📹 [Solution Walkthrough](#)
-- 💻 [Practice Code](#)
-- **Practice Problems**:
-  - Binary Search Applications
-  - Search Variations
-  - Advanced Problems
 
-### Day 5 - Presentation Day
-- 📹 [Student Presentations](#)
-- 💡 [Solution Approaches](#)
-- ✍️ [Code Reviews](#)
+### Day 2 -Binay search Problems presented by Ahmad Fakhar
+- **Leetcode Problems**
+- 📝 [704. Binary Search](https://leetcode.com/problems/binary-search/), [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/?envType=problem-list-v2&envId=binary-search)
+- 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/1219869939475674/)
+
+### Day 3 - String and its operations & Problems presented by Suffiullah & Ahmad Fakhar
+- **Leetcode Problems**
+- String and its operations &  [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/?envType=problem-list-v2&envId=string)
+- 📹 [Recorded Lecture](https://www.facebook.com/share/v/19qKsdqn3m/)
+
+
+### Day 4 - Two Pointer + Example Problems presented by Suffiullah & Ahmad Fakhar
+- **Leetcode Problems**
+- Two Pointer + Example [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/?envType=problem-list-v2&envId=binary-search)
+- 📹 [Recorded Lecture](https://www.facebook.com/share/v/1B5jdyMDEs/)
+- 
+  
+### Day 5 - Presentation Day presented by Safiullah Saleem,Ahmad Fakhar
+- **Leetcode Problems**
+- [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) [3174. Clear Digits](https://leetcode.com/problems/clear-digits/description/)
+- 📹 [Recorded Lecture](https://www.facebook.com/share/v/1BRcLbNZeJ/)
+
+
+
+
+
+
+
 
 ## Resources
 ### Essential Links
